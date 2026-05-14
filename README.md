@@ -276,22 +276,6 @@ Through this project, I gained hands-on experience with:
 
 This project helped me better understand how JWT-based authentication systems use asymmetric cryptography and public key discovery to support secure token validation.
 
-## Future Improvements
-
-Future improvements could include:
-
-- Adding a `requirements.txt` file for easier dependency installation
-- Storing keys in a database instead of memory
-- Encrypting private keys at rest
-- Adding user registration
-- Adding authentication request logging
-- Adding rate limiting to the authentication endpoint
-- Improving error handling and response formatting
-- Adding more detailed test cases
-- Adding API documentation
-- Adding Docker support for easier setup
-- Adding environment variable support for configuration
-
 ## Related Versions
 
 This repository is the base version of the JWKS server project.
